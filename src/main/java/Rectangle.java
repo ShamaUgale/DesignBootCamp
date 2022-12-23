@@ -19,12 +19,10 @@ public class Rectangle implements Shape{
         this.length = length;
     }
 
-    @Override
     public int area() {
         return getWidth() * getLength();
     }
 
-    @Override
     public int perimeter() {
         return 0;
     }

@@ -10,12 +10,10 @@ public class Square implements Shape {
         this.side = side;
     }
 
-    @Override
     public int area() {
         return 0;
     }
 
-    @Override
     public int perimeter() {
         return 0;
     }
