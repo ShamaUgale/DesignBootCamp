@@ -1,7 +1,7 @@
 public class Rectangle implements Shape{
 
-    int width;
-    int length;
+    private int width;
+    private int length;
 
     public int getWidth() {
         return width;

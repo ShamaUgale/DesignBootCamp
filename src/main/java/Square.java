@@ -1,6 +1,6 @@
 public class Square implements Shape {
 
-    int side;
+    private int side;
 
     public int getSide() {
         return side;
